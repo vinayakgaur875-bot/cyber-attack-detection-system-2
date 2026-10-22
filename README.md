@@ -1,2 +1,12 @@
-# cyber-attack-detection-system-2
-Zero Day AI is an AI-powered cybersecurity project that uses machine learning and anomaly detection to identify suspicious network activities and potential zero-day attacks. It features an interactive Streamlit dashboard for analyzing network traffic, visualizing threats, and improving security monitoring.
+# Zero Day AI
+
+This project is structured as a starter machine learning and detection workflow for zero-day AI research.
+
+## Project structure
+
+- `data/raw/` - raw input data folders
+- `data/processed/` - processed and sample output data
+- `models/` - trained or saved models
+- `src/` - project source code
+- `dashboard/` - dashboard app
+- `notebooks/` - analysis notebooks
